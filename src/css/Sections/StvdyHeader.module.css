@@ -1,0 +1,135 @@
+@media screen and (min-width: 992px) and (max-width: 1380px)  {
+    .stvdy_header {
+        background-position: 10% !important;
+    }
+
+    .header_text {
+    margin-left: 70px !important;
+    }
+
+    .header_text button {
+        width: 50% !important;
+    }
+}
+
+
+@media screen and (max-width: 991px) {
+    .stvdy_header {
+        background-position: 0% !important;
+    }
+
+    .header_text {
+        margin-left: 30px !important;
+        margin-top: 30px !important;
+    }
+
+    .header_text button {
+        width: 50% !important;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .header_left_img {
+        display: none !important;
+    }
+
+    .header_text {
+        text-align: center !important;
+    }
+
+    .header_text button {
+        margin: auto !important;
+    }
+
+    .header_text h1 {
+        font-size: 40px !important;
+    }
+
+    .clients {
+        display: none !important;
+    }
+}
+
+
+.stvdy_header {
+    height: 100vh;
+    background-image: url("../../images/Sans\ titre-1.png");
+    background-size: cover;
+    background-position: 50%;
+}
+
+.navbar_logo {
+    font-size: 52px;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: white !important;
+}
+
+.navbar_logo span {
+    font-size: smaller;
+    position: relative;
+}
+
+.navbar_logo span::before {
+    content: "";
+    position: absolute;
+    height: 2px;
+    width: 50%;
+    top: 17%;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: white;
+}
+
+.header_content {
+    color: white;
+}
+
+.header_text {
+    margin-left: 220px;
+    height: 100%;
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+}
+
+.header_text p:first-child {
+    font-size: 24px;
+}
+
+.header_text p:last-child {
+    font-size: 18px;
+}
+
+.header_text h1 {
+    font-size: 58px;
+    font-weight: 700;
+}
+
+.header_text button {
+    color: var(--main-color);
+    width: 33%;
+    font-size: 16px;
+    font-weight: 600;
+    padding: 7px 45px;
+    border-radius: 10px;
+    border: none;
+}
+
+.header_left_img, .header_left_img img {
+    width: 100%;
+}
+
+.clients {
+    display: flex;
+    justify-content: center;
+    width: 70%;
+    margin: auto;
+    position: relative;
+    top: 7%;
+}
+
+.client, .client img{
+    width: 100%;
+}
+

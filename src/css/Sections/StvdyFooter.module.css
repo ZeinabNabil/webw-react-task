@@ -1,0 +1,97 @@
+@media screen and (min-width: 768px) and (max-width: 991px) {
+    .stvdy_footer {
+        padding: 70px !important;
+    }
+
+    .form_group button {
+        right: 5% !important;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .stvdy_footer {
+        padding: 70px 25px !important;
+    }
+
+    .form_group input {
+        width: 60% !important;
+    }
+
+    .form_group button {
+        right: 40% !important;
+    }
+
+    .study, .services {
+        margin-bottom: 30px !important;
+    }
+}
+@media screen and (max-width: 767px) {
+
+    .form_group input {
+        width: 100% !important;
+    }
+
+    .form_group button {
+        right: 6% !important;
+    }
+
+}
+
+
+
+.stvdy_footer {
+    margin-top: 200px;
+    background-color: #333333;
+    color: white;
+    padding: 70px 200px;
+}
+
+.study h2 {
+    font-family: serif;
+    font-size: 48px;
+    font-weight: 700;
+}
+
+.study p {
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.services h3 {
+    font-size: 16px;
+    font-weight: 700;
+    margin-bottom: 35px;
+}
+
+.services ul {
+    padding: 0;
+    list-style: none;
+}
+
+.sign_up h3 {
+    font-size: 14px;
+    font-weight: 700;
+    margin-bottom: 30px;
+}
+
+.sign_up .form_group {
+    display: flex;
+}
+
+.sign_up .form_group input {
+    border-radius: 20px;
+    position: relative;
+    z-index: 0;
+}
+
+.sign_up .form_group button {
+    border-radius: 20px;
+    padding: 6px 40px;
+    position: absolute;
+    right: 13%;
+    z-index: 3;
+    background-color: var(--main-color);
+    /* height: 100%; */
+    border: 1px solid white;
+    color: white;
+}
