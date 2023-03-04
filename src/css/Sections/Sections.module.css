@@ -30,7 +30,13 @@
     }
 
     .best_platform_sec_two img, .best_platform_sec_four img {
-        display: none !important;
+        position: unset !important;
+       width: 100% !important;
+    }
+
+    .platform_img {
+        width: 100%;
+        margin-bottom: 30px;
     }
     
     .content {
