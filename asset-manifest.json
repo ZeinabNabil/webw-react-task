@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/webw-react-task/static/css/main.6ce3e4f2.css",
-    "main.js": "/webw-react-task/static/js/main.51911d87.js",
+    "main.css": "/webw-react-task/static/css/main.f96167cf.css",
+    "main.js": "/webw-react-task/static/js/main.291b7b35.js",
     "static/js/787.f2508f60.chunk.js": "/webw-react-task/static/js/787.f2508f60.chunk.js",
     "static/media/Sans titre-1.png": "/webw-react-task/static/media/Sans titre-1.1e12f2f5c692125623df.png",
     "static/media/NoPath.png": "/webw-react-task/static/media/NoPath.384371ba29766c3f1f56.png",
     "static/media/rate image.png": "/webw-react-task/static/media/rate image.6c71168fa21ea0f72b8a.png",
     "index.html": "/webw-react-task/index.html",
-    "main.6ce3e4f2.css.map": "/webw-react-task/static/css/main.6ce3e4f2.css.map",
-    "main.51911d87.js.map": "/webw-react-task/static/js/main.51911d87.js.map",
+    "main.f96167cf.css.map": "/webw-react-task/static/css/main.f96167cf.css.map",
+    "main.291b7b35.js.map": "/webw-react-task/static/js/main.291b7b35.js.map",
     "787.f2508f60.chunk.js.map": "/webw-react-task/static/js/787.f2508f60.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6ce3e4f2.css",
-    "static/js/main.51911d87.js"
+    "static/css/main.f96167cf.css",
+    "static/js/main.291b7b35.js"
   ]
 }
