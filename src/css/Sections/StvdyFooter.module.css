@@ -13,30 +13,18 @@
         padding: 70px 25px !important;
     }
 
-    .form_group input {
-        width: 60% !important;
-    }
-
-    .form_group button {
-        right: 40% !important;
-    }
-
     .study, .services {
         margin-bottom: 30px !important;
     }
-}
-@media screen and (max-width: 767px) {
 
     .form_group input {
         width: 100% !important;
     }
 
     .form_group button {
-        right: 6% !important;
+        right: 3% !important;
     }
-
 }
-
 
 
 .stvdy_footer {

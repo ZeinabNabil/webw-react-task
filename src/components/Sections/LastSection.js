@@ -1,6 +1,7 @@
 import React from "react";
 
 // Style
+import "../../css/App.css";
 import style from "../../css/Sections/Sections.module.css";
 
 // import Swiper core and required modules
@@ -77,8 +78,9 @@ const LastSection = () => {
       </div>
       <div className="row">
         <div className="col-lg-6 col-md-6 col-sm-12">
-          <div className={style.last_section_swiper}>
+          <div className={`${style.last_section_swiper} .last-sec-swiper`}>
             <Swiper
+              className={style.swiper}
               // install Swiper modules
               modules={[Pagination, A11y]}
               slidesPerView={1}

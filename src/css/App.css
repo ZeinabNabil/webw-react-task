@@ -65,19 +65,19 @@
   background: var(--main-color) !important;
 }
 
-.swiper {
-  box-shadow: 0px 0px 20px rgba(0, 0, 0, 16%);
-  overflow-x: clip !important;
-  overflow-y: visible !important;
-}
-
-@media screen and (min-width: 768px) {
+/* @media screen and (min-width: 768px) {
   .swiper-pagination {
     bottom: -20% !important;
   }
 }
+*/
+
 
 .swiper-pagination {
   bottom: -8% !important;
 }
+
+/* .swiper-pagination {
+  bottom: -8% !important;
+} */
 

@@ -46,6 +46,7 @@ const PlatformOverview = () => {
       </div>
       <div className={style.platform_overview_imgs}>
         <Swiper
+          className={style.swiper}
           // install Swiper modules
           modules={[Pagination, A11y]}
           slidesPerView={1}
