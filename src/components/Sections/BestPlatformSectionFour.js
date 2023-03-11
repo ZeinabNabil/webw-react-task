@@ -21,7 +21,6 @@ const BestPlatformSectionFour = () => {
         Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit
         amet"
               link="Learn About Our Success"
-              addIcon={false}
             />
           </div>
         </div>

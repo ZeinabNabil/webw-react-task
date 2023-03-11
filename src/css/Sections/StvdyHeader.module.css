@@ -63,20 +63,23 @@
     font-weight: 700;
     text-transform: uppercase;
     color: white !important;
+    letter-spacing: 1px;
 }
 
 .navbar_logo span {
     font-size: smaller;
     position: relative;
+    letter-spacing: 5px;
+    margin-left: 4px;
 }
 
 .navbar_logo span::before {
     content: "";
     position: absolute;
     height: 2px;
-    width: 50%;
+    width: 40%;
     top: 17%;
-    left: 50%;
+    left: 45%;
     transform: translateX(-50%);
     background-color: white;
 }

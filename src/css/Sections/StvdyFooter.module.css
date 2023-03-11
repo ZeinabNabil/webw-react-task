@@ -1,3 +1,8 @@
+@font-face {
+    font-family: "nueva-std";
+    src: url("../../fonts/NuevaStd-Bold.otf");
+}
+
 @media screen and (min-width: 768px) and (max-width: 991px) {
     .stvdy_footer {
         padding: 70px !important;
@@ -35,9 +40,10 @@
 }
 
 .study h2 {
-    font-family: serif;
-    font-size: 48px;
+    font-family: "nueva-std", serif;
     font-weight: 700;
+    font-style: normal;
+    font-size: 48px;
 }
 
 .study p {

@@ -208,11 +208,12 @@
 .acceleration_process_steps p {
     width: 93%;
     margin: auto;
-    border-left: 3px solid var(--second-color);
+    border-left: 3px solid #BCBCBC;
     /* display: flex; */
     margin-top: 20px;
     font-size: 14px;
     padding-left: 40px;
+    color: var(--second-color);
 }
 .acceleration_process_steps:last-child p {
     border: none;
