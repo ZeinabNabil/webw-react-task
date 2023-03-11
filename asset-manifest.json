@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "/webw-react-task/static/css/main.a2aa2c50.css",
-    "main.js": "/webw-react-task/static/js/main.19b43a90.js",
+    "main.css": "/webw-react-task/static/css/main.6153ebf1.css",
+    "main.js": "/webw-react-task/static/js/main.9df035c6.js",
     "static/js/787.f2508f60.chunk.js": "/webw-react-task/static/js/787.f2508f60.chunk.js",
     "static/media/Sans titre-1.png": "/webw-react-task/static/media/Sans titre-1.1e12f2f5c692125623df.png",
     "static/media/NoPath.png": "/webw-react-task/static/media/NoPath.384371ba29766c3f1f56.png",
     "static/media/rate image.png": "/webw-react-task/static/media/rate image.6c71168fa21ea0f72b8a.png",
+    "static/media/NuevaStd-Bold.otf": "/webw-react-task/static/media/NuevaStd-Bold.d42db9e338c2933134da.otf",
     "index.html": "/webw-react-task/index.html",
-    "main.a2aa2c50.css.map": "/webw-react-task/static/css/main.a2aa2c50.css.map",
-    "main.19b43a90.js.map": "/webw-react-task/static/js/main.19b43a90.js.map",
+    "main.6153ebf1.css.map": "/webw-react-task/static/css/main.6153ebf1.css.map",
+    "main.9df035c6.js.map": "/webw-react-task/static/js/main.9df035c6.js.map",
     "787.f2508f60.chunk.js.map": "/webw-react-task/static/js/787.f2508f60.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a2aa2c50.css",
-    "static/js/main.19b43a90.js"
+    "static/css/main.6153ebf1.css",
+    "static/js/main.9df035c6.js"
   ]
 }
